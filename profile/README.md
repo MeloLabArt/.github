@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/background.png" width="720" style="border-radius: 20px;" />
+<img src="../img/background.png" width="720" style="border-radius: 20px;" />
 
 <br/>
 
@@ -20,8 +20,8 @@
 
 <br/><br/>
 
-<blockquote>
-✨ Powered by Love ✨
-</blockquote>
+<p>
+  ✨ <i>Powered by Love</i> ✨
+</p>
 
 </div>
