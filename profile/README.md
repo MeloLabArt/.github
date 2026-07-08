@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2>Social media</h2>
+<h2>🌸 Social media 🌸</h2>
 
 <a href="https://space.bilibili.com/1486590453">
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
