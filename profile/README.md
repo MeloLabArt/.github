@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="border-radius: 20px; overflow: hidden; display: inline-block;">
-  <img src="../img/background.png" width="720" />
+  <img src="../img/background-modified.png" width="720" />
 </div>
 
 <br/>
