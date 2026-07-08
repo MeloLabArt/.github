@@ -1,12 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="img/background.png" width="720" style="border-radius: 20px;" />
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2>Social media</h2>
+
+<a href="https://space.bilibili.com/1486590453">
+  <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+
+<a href="https://v.douyin.com/Vnodegy0VN8/">
+  <img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://avg.163.com/studio/1183708">
+  <img src="https://img.shields.io/badge/易次元-FF6B81?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<blockquote>
+✨ Powered by Love ✨
+</blockquote>
+
+</div>
